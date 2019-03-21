@@ -1,4 +1,4 @@
 # sub-a
 SubModule A
 
-Version 1.0
+Version 1.1
